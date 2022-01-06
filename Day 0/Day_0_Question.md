@@ -22,8 +22,10 @@ Print Hello, World. on the first line, and the contents of  on the second line.
 
 Sample Output
 
-```Hello, World. ```
-```Welcome to 30 Days of Code!```
+```bash
+    Hello, World.
+    Welcome to 30 Days of Code!
+```
 
 ### Explanation
 
