@@ -18,7 +18,9 @@ Print Hello, World. on the first line, and the contents of  on the second line.
 
 ### Sample Input
 
-```Welcome to 30 Days of Code!```
+```bash
+Welcome to 30 Days of Code!
+```
 
 Sample Output
 
